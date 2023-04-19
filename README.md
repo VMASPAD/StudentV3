@@ -51,7 +51,7 @@ Modify the system prompt in `utils/index.ts`.
 
 Host your own live version of Studentv2 with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbvmaspad%2FStudentV3)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvmaspad%2FStudentV3)
 
 **Replit**
 
